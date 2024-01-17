@@ -10,19 +10,22 @@ This Flutter project serves as a testbed for the Shorebird feature, specifically
 
 ### Shorbird: Install and Use
 
--  create an account in (http://shorebird.dev)
+-  create an account in:
+> (http://shorebird.dev)
 
--  use (> curl --proto '=https' --tlsv1.2 https://raw.githubusercontent.com/shorebirdtech/install/main/install.sh -sSf | bash )  to install shorebird in MacOS
+- To install shorebird in MacOS use:
+> curl --proto '=https' --tlsv1.2 https://raw.githubusercontent.com/shorebirdtech/install/main/install.sh -sSf | bash   
 
-- login to your account using > shorebird login
+- Login to your account using:
+ > shorebird login
 
-- In your project:
+- Initialize shorebird in your project directory:
  > shorebird init
 
-- create release apk and submit you app to shorebird using:
+- Create release apk and submit you app to shorebird using:
  > shorebird release android
 
-- when you change your code and wanted to push your code to released app use:
+- When you change your code and wanted to push your code to released app use:
  > shorebird patch android
 
 
