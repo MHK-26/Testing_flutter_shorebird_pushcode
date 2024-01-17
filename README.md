@@ -14,7 +14,7 @@ This Flutter project serves as a testbed for the Shorebird feature, specifically
 > (http://shorebird.dev)
 
 - To install shorebird in MacOS use:
-> curl --proto '=https' --tlsv1.2 https://raw.githubusercontent.com/shorebirdtech/install/main/install.sh -sSf | bash   
+> (curl --proto '=https' --tlsv1.2 https://raw.githubusercontent.com/shorebirdtech/install/main/install.sh -sSf | bash )  
 
 - Login to your account using:
  > shorebird login
