@@ -16,11 +16,14 @@ This Flutter project serves as a testbed for the Shorebird feature, specifically
 
 - login to your account using > shorebird login
 
-- In your project > shorebird init
+- In your project:
+ > shorebird init
 
-- create release apk and submit you app to shorebird using > shorebird release android
+- create release apk and submit you app to shorebird using:
+ > shorebird release android
 
-- when you change your code and wanted to push your code to released app use > shorebird patch android
+- when you change your code and wanted to push your code to released app use:
+ > shorebird patch android
 
 
 
